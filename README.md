@@ -1,7 +1,7 @@
 ### Hi there,
 ### My Name is Azad Anil Meshram👋
 - 🔭 I’m currently working on some fascinating Machine Learning Projects.
-- 😄 Which includes Credit Card Default Predictions and Cardio Vascular Risk prediction
+- 😄 Which includes Credit Card Default Predictions and Cardio Vascular Risk Predictions.
 
 
 
