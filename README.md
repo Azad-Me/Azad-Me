@@ -21,7 +21,7 @@
 
 ### :technologist: About Me :
 - 🔭 I’m currently working on some fascinating Machine Learning Projects.
-- 😄 Which includes Credit Card Default Predictions and Cardio Vascular Risk Predictions.
+- 😄 Which includes Collaborative Filtering and Topic Modelling.
 
 
 
