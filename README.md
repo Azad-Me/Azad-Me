@@ -21,7 +21,7 @@
 
 ### :technologist: About Me :
 - 🔭 I’m currently working on some fascinating Machine Learning Projects.
-- 😄 Which includes Collaborative Filtering and Topic Modelling.
+- 😄 Which includes Collaborative Filtering and Recommendation System.
 
 
 
